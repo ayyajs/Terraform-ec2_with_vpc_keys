@@ -10,7 +10,7 @@ Here We have created the following
 
 
 
-#Change your profile 
+#Change your profile in provider.tf
 
 1) terraform init
 2) terraform validate
