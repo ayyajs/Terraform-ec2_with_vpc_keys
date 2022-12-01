@@ -7,3 +7,12 @@ Here We have created the following
 5) Create Route Table Association
 6) Create Key Pair with SSH
 7) Create Ec2
+
+
+
+#Change your profile 
+
+terraform init
+terraform validate
+terraform plan
+terraform apply
