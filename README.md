@@ -1,4 +1,4 @@
-Here I have created the following 
+Here We have created the following 
 
 1) Create VPC
 2) Create Subnets with public and private
